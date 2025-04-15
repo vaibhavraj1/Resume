@@ -1,1 +1,5 @@
-# Resume
+Hi, My name is Vaibhav Raj Sahni. I'm a passionate and performance-driven Software Engineer at Wells Fargo with close to 2 years of experience delivering high-impact automation and data solutions. I specialize in solving complex business problems through software development, intelligent automation, and analytics. At Wells Fargo, my work has directly contributed to eliminating manual effort through scalable, production-grade automations. Overall, I've also played a key role in optimizing data pipelines and streamlining operations with BigQuery, Python, and UiPath.
+
+Holding a Minor in Machine Learning from DTU, I’ve built impactful ML projects including an augmented reality Sudoku solver, hate speech detection through meme analysis, and a multitask face recognition system strengthening my technical foundation in deep learning and computer vision.
+
+I’m now looking to bring my skills to a dynamic team where I can create value as a Software Engineer, Data Analyst, or Data Scientist. I'm excited about opportunities that challenge me to learn, build, and solve meaningful problems at scale.
